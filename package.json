@@ -12,5 +12,13 @@
   },
   "devDependencies": {},
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/998854/ye.git"
+  },
+  "bugs": {
+    "url": "https://github.com/998854/ye/issues"
+  },
+  "homepage": "https://github.com/998854/ye#readme",
   "description": ""
 }
